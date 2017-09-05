@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/motorola/msm8916-common/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/msm8916-common/proprietary/bin/radish:system/bin/radish \
-    vendor/motorola/msm8916-common/proprietary/bin/rild:system/bin/rild \
     vendor/motorola/msm8916-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/motorola/msm8916-common/proprietary/bin/stml0xx:system/bin/stml0xx \
     vendor/motorola/msm8916-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
@@ -65,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
     vendor/motorola/msm8916-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/motorola/msm8916-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
-    vendor/motorola/msm8916-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
